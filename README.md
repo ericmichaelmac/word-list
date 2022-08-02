@@ -8,11 +8,13 @@ Features:
 - Save words to library
 
 Backlog:
-- Basic HTML Layout [x]
-- Take an input [x]
+- Send an input to backend
 - Dictionary API
-- Create server [x]
-- Hook up database
+- Understand Fetch
+- Create server routes
+- Frontend HTTP request
+- Configure database
+- Understand CORS
 
 Technology:
 - HTML
