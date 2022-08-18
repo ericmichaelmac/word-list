@@ -1,4 +1,4 @@
-# word-list
+# Vocabulary Builder
 
 Purpose:
 Create a convenient place to look up definitions and save words to a library.
@@ -15,6 +15,7 @@ Backlog:
 - Frontend HTTP request
 - Configure database
 - Understand CORS
+- Search Word -> Aggregate multiple dictionaries 
 
 Technology:
 - HTML
